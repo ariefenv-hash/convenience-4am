@@ -1,0 +1,35 @@
+{
+  "target": "https://convenience-4am.app.workbuddy.host/?sharecode=Z2L77MUMFG",
+  "entry": "https://convenience-4am.app.workbuddy.host/?sharecode=Z2L77MUMFG",
+  "base_dir": "/",
+  "file_count": 4,
+  "total_bytes": 1415959,
+  "files": {
+    "index.html": {
+      "source": "https://convenience-4am.app.workbuddy.host/?sharecode=Z2L77MUMFG",
+      "bytes": 369291,
+      "sha256": "917834a54e9b8e4aeef64da98972a492d26868766518453590b93304254e774b",
+      "kind": "html"
+    },
+    "libs/three.min.js": {
+      "source": "https://convenience-4am.app.workbuddy.host/libs/three.min.js",
+      "bytes": 603445,
+      "sha256": "9274bbcec8d96168626c732b5d31c775aa8cfb7eaa0599bec0c175908a2c1ce2",
+      "kind": "js"
+    },
+    "assets/title.jpg": {
+      "source": "https://convenience-4am.app.workbuddy.host/assets/title.jpg",
+      "bytes": 223464,
+      "sha256": "19657f058da292395b4489920fab6e2127d5a3a427ffdb8884b419eddc622954",
+      "kind": "binary"
+    },
+    "assets/notebook.jpg": {
+      "source": "https://convenience-4am.app.workbuddy.host/assets/notebook.jpg",
+      "bytes": 219759,
+      "sha256": "1147fbd991b7bad40bd8eff22cb38446223a299e0ecacef73ddd64c8cd30e9df",
+      "kind": "binary"
+    }
+  },
+  "external": [],
+  "warnings": []
+}
